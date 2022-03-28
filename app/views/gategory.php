@@ -8,29 +8,29 @@
 
         <div class="mySlides fade">
             <div class="numbertext">1 / 3</div>
-            <img src="image/img1.jpg" height="300px">
+            <img src="app/views/image/img1.jpg" height="300px">
             <div class="text">Caption Text</div>
         </div>
 
         <div class="mySlides fade">
             <div class="numbertext">2 / 3</div>
-            <img src="image/img2.jpg" height="300px">
+            <img src="app/views/image/img2.jpg" height="300px">
             <div class="text">Caption Two</div>
         </div>
 
         <div class="mySlides fade">
             <div class="numbertext">3 / 3</div>
-            <img src="image/img3.jpg" height="300px">
+            <img src="app/views/image/img3.jpg" height="300px">
             <div class="text">Caption Three</div>
         </div>
         <div class="mySlides fade">
             <div class="numbertext">3 / 3</div>
-            <img src="image/img4.jpg" height="300px">
+            <img src="app/views/image/img4.jpg" height="300px">
             <div class="text">Caption Three</div>
         </div>
         <div class="mySlides fade">
             <div class="numbertext">3 / 3</div>
-            <img src="image/img5.jpg" height="300px">
+            <img src="app/views/image/img5.jpg" height="300px">
             <div class="text">Caption Three</div>
         </div>
 

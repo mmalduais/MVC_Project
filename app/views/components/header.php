@@ -14,8 +14,11 @@
     <link rel="stylesheet" href="app/views/css/about.css" />
     <link rel="stylesheet" href="app/views/css/gategory.css" />
     <link rel="stylesheet" href="app/views/css/Details1.css" />
+    <link rel="stylesheet" href="app/views/css/checkout.css" />
+    
     <!-- <link rel="stylesheet" href="app/views/css/details1.css" /> -->
     <!-- Google Fonts -->
+    <link rel="stylesheet" href="app/views/css/checkout.css">
    
     <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&#038;display=swap" rel="stylesheet" />
@@ -90,7 +93,7 @@
                 <!-- <i class="fas fa-search"></i> -->
                 <div class="app/views/image-trash">
                     <div id="conter">0</div>
-                    <a href="checkout.html"><img src="app/views/image/trash.PNG"></a>
+                    <a href="cart"><img src="app/views/image/trash.PNG"></a>
                 </div>
                 <!-- <i class="fas fa-trash " style="background-color: #eeeeee; border-radius: 50%; width: 4%; height: 40px; position: relative;"></i>
                 -->

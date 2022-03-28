@@ -3,7 +3,7 @@
 class Cart{
     function __construct()
     {
-        require_once "app/views/cart.php";
+        require_once "app/views/checkout.php";
     }
 
 }
